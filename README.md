@@ -1,16 +1,17 @@
-# frontend_economija_mobile
+# Economiza Já - Front-End Mobile
 
-A new Flutter project.
+## Descrição
+Este repositório contém o código do front-end mobile do **Economiza Já**, desenvolvido em Flutter (Dart). Ele oferece uma interface mobile para gerenciamento de finanças pessoais, se conectando ao back-end para funcionalidades como cadastro de despesas, rendas, e geração de relatórios.
 
-## Getting Started
+## Funcionalidades Principais
+- Cadastro de rendas e despesas pelo celular
+- Visualização de lançamentos financeiros
+- Criação e gerenciamento de categorias
+- Relatórios financeiros em tempo real
+- Sincronização com a API do back-end
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias Utilizadas
+- **Flutter** (Dart)
+- **HTTP Package** (Conexão com a API)
+- **flutter_secure_storage** (Armazenamento seguro de tokens)
+- **Provider** (Gerenciamento de estado)
